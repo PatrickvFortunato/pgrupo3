@@ -76,8 +76,13 @@ function AppHome() {
         <h2 className='text-home-h2'>QUEM SOMOS</h2>
         <h4 className='text-home-h4'>HISTÓRIA</h4>
         <p className='text-home-p'>A Azul Imobiliária iniciou suas atividades em 2011 visando construir a sua história no mercado imobiliário do Rio de Janeiro de forma sólida, confiável e duradoura. Trata-se de imobiliária atuante no mercado, com um histórico íntegro e de ótimas negociações. Ética profissional e transparência são imprescindíveis no mercado imobiliário. A busca pela excelência é à maneira de crescimento neste mercado, sendo assim, a AZUL IMOBILIÁRIA oferece para o seus clientes um atendimento personalizado, o que resulta em segurança a todos os negócios realizados, satisfazendo aos nossos clientes. A atuação com dinamismo e profissionalismo na prestação de serviços, faz da AZUL IMOBILIÁRIA uma das empresas mais eficientes no mercado imobiliário nacional. Fale Conosco e faça parte desta família você também! AZUL IMOBILIÁRIA Rua Barão de São Januario, 164 - loja Vasco da Gama - Rio de Janeiro - CEP: 18981-998 (211) 42088-36164 - (211) 0960065-26068 contato@azulimobiliaria.com.br</p>
-        <h4 className='text-home-h4'>CIDADES ATENDIDAS</h4>
-        <p className='text-home-p'>A Dreams Imobiliária é a única construtora presente em 160 cidades brasileiras. Hoje, é líder no mercado de construção civil no segmento de imóveis residenciais e já possui mais de 4 mil casas e apartamentos lançados em 22 estados brasileiros e no Distrito Federal. Além de construir empreendimentos direcionados à classe média, que possibilita a realização do sonho da casa própria a milhares de brasileiros, a empresa gera seis mil postos de trabalho por ano nos locais em que atua.</p>
+        <h4 className='text-home-h4'>MISSÃO</h4>
+        <p className='text-home-p'>Agir com eficácia revelando a solução que nosso cliente precisa para proceder seu negócio imobiliário com segurança e rentabilidade.</p>
+        <h4 className='text-home-h4'>NOSSA VISÃO</h4>
+        <p className='text-home-p'>Caminhar com os aparatos tecnológicos, sempre de mãos dadas com a ética corporativa, visando levar os serviços imobiliários ao nosso cliente com a devida excelência.</p>
+        <hr />
+        <h4 className='text-home-h4'>NOSSOS VALORES</h4>
+        <p className='text-home-p'>Viver a transparência negocial na prática. Executar todo e qualquer serviço pautado na segurança. Qualificação de nossa equipe e estrutura buscando sempre a inovação. Fidelidade às partes envolvidas, utilizando-se da imparcialidade para gerir o negócio. Atender respeitosamente a todos que nos buscam, independente de seus crédulos, raça, condição econômica ou sexualidade.</p>
         <hr />
       </div>
 
@@ -85,7 +90,7 @@ function AppHome() {
       <div id="App" className="App">
 
         <h1 className='text-home-h1'>AZUL IMOBILIÁRIA</h1>
-        <h2 className='slogan'>REALIZANDO SONHOS DESDE 2005</h2>
+        <h2 className='slogan'>REALIZANDO SONHOS DESDE 2011</h2>
 
         <div class="row">
           <div class="card green">
