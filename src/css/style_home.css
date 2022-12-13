@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   width: 100%;
- 
+  max-width: 80%;
   background-color: rgba(0, 0, 0, 0.151);
 }
 
@@ -60,7 +60,6 @@ body {
   cursor: grab;
   overflow: hidden;
   height: 75vh;
- 
 }
 
 .buttons {
