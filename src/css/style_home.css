@@ -18,12 +18,12 @@ body {
 
 .text-home-h2 {
   text-align: center;
-  color: #1E0E75
+  color: #1E0E75;
   font-size: 25px;
 }
 
 .text-home-h4 {
-  color: #2E16B5
+  color: #2E16B5;
 }
 
 .slogan {
@@ -92,14 +92,14 @@ body {
 }
 .card {
   border-radius: 5px;
-  box-shadow: 0px 0px 0px 0.5px #0D0636);
+  box-shadow: 0px 0px 0px 0.5px rgb(#0D0636,#0D0636,#0D0636);
   padding: 30px;
   margin: 30px;
   width: 400px;
   height: 431px;
   transition: all 0.3s ease-out;
   background: linear-gradient(#4895ff, #9027C2);
-  background-size:150% 
+  background-size:150%;
 
 }
 .card:hover {
@@ -115,7 +115,7 @@ body {
   float:center;
   width: 310px;
   height: 255px;
-  border: 2px solid #3D1EF5);
+  border: 2px solid #3D1EF5;
   border-radius: 20px;
 }
 .blue {
