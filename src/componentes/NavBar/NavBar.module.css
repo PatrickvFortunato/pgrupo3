@@ -25,7 +25,7 @@ a:visited {
 .logotipo {
   cursor: pointer;
   margin-left: 1rem;
-  width: calc(15vh - 45px);
+  width: calc(35vh - 70px);
   mix-blend-mode: screen;
 }
 
