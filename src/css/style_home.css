@@ -61,6 +61,7 @@ body {
   overflow: hidden;
   height: 75vh;
   max-width: 80%;
+  margin: 0 auto;
 }
 
 .buttons {
@@ -120,3 +121,6 @@ body {
   border-radius: 20px;
 }
 
+.quem-somos{
+  max-width: 80%;
+}
