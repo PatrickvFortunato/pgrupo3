@@ -80,7 +80,7 @@ function AppHome() {
         <p className='text-home-p'>Agir com eficácia revelando a solução que nosso cliente precisa para proceder seu negócio imobiliário com segurança e rentabilidade.</p>
         <h4 className='text-home-h4'>NOSSA VISÃO</h4>
         <p className='text-home-p'>Caminhar com os aparatos tecnológicos, sempre de mãos dadas com a ética corporativa, visando levar os serviços imobiliários ao nosso cliente com a devida excelência.</p>
-        <hr />
+       
         <h4 className='text-home-h4'>NOSSOS VALORES</h4>
         <p className='text-home-p'>Viver a transparência negocial na prática. Executar todo e qualquer serviço pautado na segurança. Qualificação de nossa equipe e estrutura buscando sempre a inovação. Fidelidade às partes envolvidas, utilizando-se da imparcialidade para gerir o negócio. Atender respeitosamente a todos que nos buscam, independente de seus crédulos, raça, condição econômica ou sexualidade.</p>
         <hr />
