@@ -106,7 +106,7 @@ function AppHome() {
           <div class="card green">
             <h1>R$11.000,00/mês</h1>
             <h3>Estrada do Rio Grande, Taquara. RJ</h3>
-            <h4>6 Suites | 6 Banheiros | 2 Garagens</h4>
+            <h4>6 Suítes | 6 Banheiros | 2 Garagens</h4>
             <h4>Falar com Jordan: (211) 967650-12561</h4>
             <br></br>
 
@@ -114,25 +114,25 @@ function AppHome() {
           </div>
 
           <div class="card green">
-            <h1>R$660,00/mês</h1>
-            <h3>Almirante Ary Parreiras, RJ</h3>
-            <h4>1 Quarto | 1 Banheiro | 1 Garagem</h4>
-            <h4>Falar com Lara: (21) 98356-6482</h4>
+            <h1>R$7.000,00/mês</h1>
+            <h3>Av. Lúcio Costa, Recreio. RJ</h3>
+            <h4>4 Suítes | 5 Banheiros | 1 Garagem</h4>
+            <h4>Falar com Neide: (211) 45356-31136</h4>
             <br></br>
 
-            <img class="imagem-card" src="https://system.soprojetos.com.br/files/996/medium/modelo_de_casa__versao_do_cod_99-cod_136-foto-1.jpg?1491503841" alt="money_1" />
+            <img class="imagem-card" src="https://images.adsttc.com/media/images/61c3/a04a/10cf/2e01/6435/f8b0/slideshow/86301pr210429-030d.jpg?1640210515" alt="money_1" />
           </div>
 
           <div class="card green">
 
-            <h1>R$1.610,00/mês</h1>
-            <h3>Avenida Atlântica, RJ</h3>
-            <h4>3 Quartos | 2 Banheiros | 1 Garagem</h4>
+            <h1>R$5.650,00/mês</h1>
+            <h3>Avenida Atlântica,Ipanema. RJ</h3>
+            <h4>4 Quartos | 3 Banheiros | 1 Garagem</h4>
             <h4>Falar com Yasmin: (21) 97205-4101</h4>
             
             <br></br>
 
-            <img class="imagem-card" src="https://system.soprojetos.com.br/files/1491/medium/PAD-COD43-FOTO-1-WEB.jpg?1659015535" alt="money" />
+            <img class="imagem-card" src="https://images.adsttc.com/media/images/60e4/92ef/a6a8/3804/211e/d39f/slideshow/2.jpg?1625592571" alt="money" />
             
           </div>
 
