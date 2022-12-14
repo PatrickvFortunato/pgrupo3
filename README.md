@@ -1,11 +1,18 @@
 # Projeto em Grupo MOD 3 - Resilia/Senac
-Nesse projeto foi desenvolvido um website para uma imobiliaria ficticia. O site foi construido em React, e as tecnologias usadas foram : CRUD, HTML, CSS, React Router Dom.
+Nesse projeto foi desenvolvido um website para uma imobiliaria ficticia chamada Azul Imobiliária. a proposta foi construir um site onde os clientes podem ver os imovéis disponiveis para locação.
+Também foi construido um sistema onde os clientes e os funcionarios da imobiliaria podem conferir dados como metódos de pagamento, lista de imoveis, corretores e demais informações referente a imobiliaria. Além disso, é possivel cadastrar novas informações no sistema.
+Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 
+# Tecnologia usadas no projeto :
+•	React
+•	HTML
+•	CSS
+•	React Router DOM
+•	Axios
 
+# Como inicializar o projeto
 
-# Getting Started with Create React App
-
-
+1
 
 
 
