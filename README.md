@@ -9,7 +9,6 @@ Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 •	Javascript
 •	CSS
 •	React Router DOM
-•	Axios
 •	React Bootstrap, React Icons
 •	Vercel e Render (API) para Hospedagem
 
