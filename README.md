@@ -1,4 +1,13 @@
+# Projeto em Grupo MOD 3 - Resilia/Senac
+Nesse projeto foi desenvolvido um website para uma imobiliaria ficticia. O site foi construido em React, e as tecnologias usadas foram : CRUD, HTML, CSS, React Router Dom.
+
+
+
 # Getting Started with Create React App
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
