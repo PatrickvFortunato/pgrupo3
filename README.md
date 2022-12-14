@@ -1,6 +1,6 @@
 # Projeto em Grupo MOD 3 - Resilia/Senac
-Nesse projeto foi desenvolvido um website para uma imobiliaria ficticia chamada Azul Imobiliária. a proposta foi construir um site onde os clientes podem ver os imovéis disponiveis para locação.
-Também foi construido um sistema onde os clientes e os funcionarios da imobiliaria podem conferir dados como metódos de pagamento, lista de imoveis, corretores e demais informações referente a imobiliaria. Além disso, é possivel cadastrar novas informações no sistema.
+
+Nesse projeto foi desenvolvido um website para uma imobiliária fictícia chamada Azul Imobiliária. A proposta foi construir um site onde os clientes podem ver os imóveis disponíveis para locação.Também foi construído um sistema onde os clientes e os funcionários da imobiliária podem conferir dados como métodos de pagamento, lista de imóveis, corretores e demais informações referentes a imobiliária. Além disso, é possível cadastrar novas informações no sistema.
 Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 
 # Tecnologia usadas no projeto :
@@ -15,10 +15,12 @@ Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 1
 
 
+ 
+## Alternativamente, segue o tutorial para inicializar o projeto feito pelo própio React
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Alternativamente, segue o tutorial para inicializar o projeto feito pelo própio React
 
 In the project directory, you can run:
 
