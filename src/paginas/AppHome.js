@@ -90,7 +90,7 @@ function AppHome() {
       <div id="App" className="App">
 
         <h1 className='text-home-h1'>AZUL IMOBILIÁRIA</h1>
-        <h2 className='slogan'>REALIZANDO SONHOS DESDE 2011</h2>
+        <h2 className='slogan'>AZUL, A COR DA SUA NOVA CASA!</h2>
 
         <div class="row">
           <div class="card green">
