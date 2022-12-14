@@ -100,7 +100,7 @@ function AppHome() {
             <h4>Falar com Orlando: (21) 99040-6500</h4>
             <br></br>
 
-            <img class="imagem-card" src="https://imgbr.imovelwebcdn.com/avisos/2/29/72/81/99/28/720x532/3588585487.jpg" alt="money" />
+            <img class="imagem-card" src="https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/slideshow/3.jpg?1603331288" alt="money" />
           </div>
 
           <div class="card green">
