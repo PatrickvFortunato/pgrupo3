@@ -19,8 +19,10 @@ export default function NavLinks() {
         </Link>
       </li>
       <li>
+      <Link to="/login">
         <BsPersonCircle className={style.loginIcone} />
-        <Link to="/login"></Link>
+        </Link>
+       
       </li>
     </ul>
   );
