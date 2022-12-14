@@ -16,7 +16,7 @@ Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 
 
  
-## Alternativamente, segue o tutorial para inicializar o projeto feito pelo própio React
+# Alternativamente, segue o tutorial para inicializar o projeto feito pelo própio React
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
