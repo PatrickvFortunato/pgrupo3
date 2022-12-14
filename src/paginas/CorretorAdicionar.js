@@ -70,7 +70,7 @@ const CorretorAdicionar = () => {
               <form className="server_container" onSubmit={handlesubmit}>
                 <div className="server_card" style={{ textAlign: "left" }}>
                   <div className="server_card-title">
-                    <h2 className="server_h2">Adicionar corretor</h2>
+                    <h2 className="server_h2">Adicionar Corretor</h2>
                   </div>
                   <div className="server_card-body">
                     <div className="server_row">
