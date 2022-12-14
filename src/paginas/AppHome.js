@@ -94,23 +94,23 @@ function AppHome() {
 
         <div class="row">
           <div class="card green">
-            <h1>R$1.000,00/mês</h1>
-            <h3>Rua Conde de Bonfim, RJ</h3>
+            <h1>R$5.000,00/mês</h1>
+            <h3>Av das Américas, Barra da Tijuca. RJ</h3>
             <h4>4 Quartos | 3 Banheiros | 2 Garagens</h4>
-            <h4>Falar com Orlando: (21) 99040-6500</h4>
+            <h4>Falar com Dalton: (211) 296489-13310</h4>
             <br></br>
 
             <img class="imagem-card" src="https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/slideshow/3.jpg?1603331288" alt="money" />
           </div>
 
           <div class="card green">
-            <h1>R$209,00/mês</h1>
-            <h3>Rua Oswaldo Lussac, RJ</h3>
-            <h4>2 Quartos | 3 Banheiros | 1 Garagem</h4>
-            <h4>Falar com Mariana: (21) 97980-1221</h4>
+            <h1>R$11.000,00/mês</h1>
+            <h3>Estrada do Rio Grande, Taquara. RJ</h3>
+            <h4>6 Suites | 6 Banheiros | 2 Garagens</h4>
+            <h4>Falar com Jordan: (211) 967650-12561</h4>
             <br></br>
 
-            <img class="imagem-card" src="https://system.soprojetos.com.br/files/1335/medium/projeto-de-casa-terrea-para-terrenos-de-10-metros-com-3-quartos-e-1-suite-cod-175-fachada-1.jpg?1576186538" alt="money" />
+            <img class="imagem-card" src="https://imgbr.imovelwebcdn.com/avisos/resize/2/29/73/83/82/19/1200x1200/3617589257.jpg" alt="money" />
           </div>
 
           <div class="card green">
