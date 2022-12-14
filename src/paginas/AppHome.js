@@ -128,7 +128,7 @@ function AppHome() {
             <h1>R$5.650,00/mês</h1>
             <h3>Avenida Atlântica,Ipanema. RJ</h3>
             <h4>4 Quartos | 3 Banheiros | 1 Garagem</h4>
-            <h4>Falar com Yasmin: (21) 97205-4101</h4>
+            <h4>Falar com Margarida: (211) 32652-32313</h4>
             
             <br></br>
 
@@ -137,25 +137,25 @@ function AppHome() {
           </div>
 
           <div class="card green">
-            <h1>R$1.750,00/mês</h1>
-            <h3>Rua Porto Amazonas, RJ</h3>
-            <h4>3 Salas | 2 Banheiros | 2 Garagens</h4>
-            <h4>Falar com Brian: (21) 99255-0986</h4>
+            <h1>R$2.750,00/mês</h1>
+            <h3>Estrada da Água Branca, Bangu. RJ</h3>
+            <h4>3 Salas | 2 Salas | 1 Garagens</h4>
+            <h4>Falar com Raul: (211) 63256-96523</h4>
 
            <br></br>
 
-            <img class="imagem-card" src="https://system.soprojetos.com.br/files/615/medium/casa_popular_cod100_2quartos.jpg?1491510183" alt="money" />
+            <img class="imagem-card" src="https://images.adsttc.com/media/images/6361/033c/4166/4601/6f34/f35b/slideshow/house-in-momoyama-oharchitecture_1.jpg?1667302226" alt="money" />
           </div>
 
           <div class="card green">
 
-            <h1>R$1.200,00/mês</h1>
-            <h3>Rua Fernando Jr, RJ</h3>
-            <h4>2 Salas | 2 Banheiros | 0 Garagem</h4>
-            <h4>Falar com Gabrielly: (21) 99483-5925</h4>
+            <h1>R$2.200,00/mês</h1>
+            <h3>Estrada Roberto Burle Marx, Guaratiba. RJ</h3>
+            <h4>2 Quartos | 2 Salas | 1 Garagem</h4>
+            <h4>Falar com Isabelle: (211) 11232-98531</h4>
 
             <br></br>
-            <img class="imagem-card" src="https://system.soprojetos.com.br/files/597/medium/primeira_obra_da_madrugada.jpg?1491504043" alt="money" />
+            <img class="imagem-card" src="https://images.adsttc.com/media/images/6380/aee8/2a7c/d501/693b/cf8f/slideshow/shiva-stuthi-residence-wright-inspires_2.jpg?1669377864" alt="money" />
           
           </div>
         </div>
