@@ -6,9 +6,12 @@ Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 # Tecnologia usadas no projeto :
 •	React
 •	HTML
+•	Javascript
 •	CSS
 •	React Router DOM
 •	Axios
+•	React Bootstrap, React Icons
+•	Vercel e Render (API) para Hospedagem
 
 # Como inicializar o projeto
 
