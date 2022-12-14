@@ -12,7 +12,9 @@ Membros do Grupo : Patrick, Wando, Eduardo, Soraya e Lucas.
 
 # Como inicializar o projeto
 
-1
+1 - npm install json-server react-router-dom react-icons uuid
+2 - npm start
+
 
 
  
