@@ -150,7 +150,7 @@ function AppHome() {
           <div class="card green">
 
             <h1>R$2.200,00/mês</h1>
-            <h3>Estrada Roberto Burle Marx, Guaratiba. RJ</h3>
+            <h3>Estrada Burle Marx, Guaratiba. RJ</h3>
             <h4>2 Quartos | 2 Salas | 1 Garagem</h4>
             <h4>Falar com Isabelle: (211) 11232-98531</h4>
 
